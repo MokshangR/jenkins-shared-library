@@ -1,0 +1,1 @@
+Jenkins Pipelines: Groovy is the primary language used for writing Jenkins Pipelines, which define the entire continuous integration and continuous delivery (CI/CD) process. Pipelines can be written in a "Declarative" or "Scripted" syntax, both of which leverage Groovy's capabilities to orchestrate build stages, execute commands, and manage artifacts.
